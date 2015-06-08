@@ -1,0 +1,7 @@
+<resources>
+    <color name="primary">#212121</color>
+    <color name="primary_button">#f08c35</color>
+    <color name="accent_button">#c62828</color>
+    <color name="main_activity_background">#c7e1f1</color>
+    <color name="main_activity_header_text">#001b46</color>
+</resources>
